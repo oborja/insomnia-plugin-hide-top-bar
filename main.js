@@ -1,4 +1,4 @@
 // Autor: omar borja ;)
 
-rightHeader = document.querySelector('.app-header');
+rightHeader = document.querySelector('header');
 rightHeader.style.display = "none";
